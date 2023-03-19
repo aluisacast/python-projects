@@ -1,4 +1,5 @@
-# 04 Prove: Milestone - Meal Price Calculator
+# Autor: Ana Luisa Castañeda Garce
+# Meal Price Calculator
 print('\nWelcome to the Meal Price Calculator! Only input numbers please.')
 price_child = float(input("\nWhat is the price of a child's meal? "))
 price_adult = float(input("What is the price of an adult's meal? "))

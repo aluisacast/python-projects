@@ -1,4 +1,5 @@
-#   W09 Assignment Milestone
+# Autor: Ana Luisa Castañeda Garce
+# Shopping Cart Program
 
 items = []
 prices =[]

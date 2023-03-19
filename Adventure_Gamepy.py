@@ -1,5 +1,5 @@
 # Autor: Ana Luisa Castañeda Garce
-#      W05 & W06 ADVENTURE GAME
+#      ADVENTURE GAME
 
 import textwrap as tr
 caps = "\033[91m {}\033[00m".format('CAPITALIZED')

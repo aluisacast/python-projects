@@ -1,5 +1,5 @@
-#     W08 Prove: Assignment Milestone
-#    Author: Ana Luisa Castañeda
+# Autor: Ana Luisa Castañeda Garce
+#    Wordle Type Game
 import random
 
 class ANSI():

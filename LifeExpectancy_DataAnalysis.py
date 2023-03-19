@@ -1,4 +1,4 @@
-#   W12 Assignment Milestone
+# Autor: Ana Luisa Castañeda Garce
 #   Data Analysis
 
 # Variables 
